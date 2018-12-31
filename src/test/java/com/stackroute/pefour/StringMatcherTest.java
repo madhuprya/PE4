@@ -10,7 +10,7 @@ public class StringMatcherTest {
     @Test
     public void matchString1() {
         //act
-        String expected = "found at: 4-6 found at: 10-12 found at: 25-27";
+        String expected = "found at: 4-6 found at: 10-12 found at: 27-29";
         //arrange
          String result = stringMatcher.matchString("She sells seashells by the seashore","se");
         //assert
