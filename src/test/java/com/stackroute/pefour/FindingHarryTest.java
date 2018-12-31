@@ -19,14 +19,14 @@ public class FindingHarryTest {
 
     @Test
     public void findingHarry() {
-        assertEquals("Is Harry here ?"+true,fh.findingHarry("This is Harry","Harry"));
-        assertEquals("Is Harry here ?"+true,fh.findingHarry("He is playing with Harry's friend.","Harry"));
-        assertEquals("Is Harry here ?"+false,fh.findingHarry("This is Henry","Harry"));
+        assertEquals(true,fh.findingHarry("This is Harry","Harry"));
+        assertEquals(true,fh.findingHarry("He is playing with Harry's friend.","Harry"));
+        assertEquals(false,fh.findingHarry("This is Henry","Harry"));
     }
 
     @Test
     public void findingHarryFailure(){
         assertNotSame(false,fh.findingHarry("This is Harry","Harry"));
-        assertNotSame(true,fh.findingHarry("This is Henry","Henry"));
+        assertNotSame(true,fh.findingHarry("This is Henry","Harry"));
     }
 }
