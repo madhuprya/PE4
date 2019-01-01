@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8aaeaaf-8bf4-4b94-ab63-86ae1bf1e5dd" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pefour/Characterstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pefour/Characterstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pefour/StringMatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pefour/StringMatcher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/pefour/CharacterstringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/pefour/CharacterstringTest.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pefour/StringMatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pefour/StringMatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stackroute/pefour/StringMatcherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/pefour/StringMatcherTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/pefour/FindingHarry.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stackroute/pefour/FindingHarry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/pefour/StringMatcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stackroute/pefour/StringMatcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stackroute/pefour/FindingHarryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/stackroute/pefour/FindingHarryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/stackroute/pefour/StringMatcherTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/stackroute/pefour/StringMatcherTest.class" afterDir="false" />
+>>>>>>> e3c8bbe6baf33ca8d0f2d03a2694fd861e545722
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,16 +25,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pefour/Characterstring.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/pefour/StringTransposeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+>>>>>>> e3c8bbe6baf33ca8d0f2d03a2694fd861e545722
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/pefour/CharacterstringTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -33,19 +52,36 @@
                 <element signature="e#489#490#0" expanded="true" />
                 <element signature="e#571#572#0" expanded="true" />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/pefour/StringMatcherTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="69" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
+>>>>>>> e3c8bbe6baf33ca8d0f2d03a2694fd861e545722
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/pefour/StringMatcherTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pefour/StringMatcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> e3c8bbe6baf33ca8d0f2d03a2694fd861e545722
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pefour/StringMatcher.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -55,6 +91,8 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> e3c8bbe6baf33ca8d0f2d03a2694fd861e545722
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -75,13 +113,18 @@
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/pefour/ReplaceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pefour/FindingHarry.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/pefour/FindingHarryTest.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/pefour/CharacterstringTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pefour/Characterstring.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pefour/StringMatcher.java" />
+=======
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pefour/StringMatcher.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/pefour/StringMatcherTest.java" />
+>>>>>>> e3c8bbe6baf33ca8d0f2d03a2694fd861e545722
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="95" />
     <option name="y" value="79" />
     <option name="width" value="1371" />
@@ -100,11 +143,6 @@
             <path>
               <item name="PE4" type="b2602c69:ProjectViewProjectNode" />
               <item name="PE4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PE4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PE4" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PE4" type="b2602c69:ProjectViewProjectNode" />
@@ -165,7 +203,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546260331670" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546261043826" />
+>>>>>>> e3c8bbe6baf33ca8d0f2d03a2694fd861e545722
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -190,8 +232,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="JUnit.CharacterstringTest">
     <configuration name="CharacterstringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="JUnit.StringMatcherTest">
+    <configuration name="StringMatcherTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+>>>>>>> e3c8bbe6baf33ca8d0f2d03a2694fd861e545722
       <module name="PE4" />
       <extension name="coverage">
         <pattern>
@@ -200,6 +247,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.pefour" />
+<<<<<<< HEAD
       <option name="MAIN_CLASS_NAME" value="com.stackroute.pefour.CharacterstringTest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -217,6 +265,9 @@
       <option name="MAIN_CLASS_NAME" value="com.stackroute.pefour.CharacterstringTest" />
       <option name="METHOD_NAME" value="characterString" />
       <option name="TEST_OBJECT" value="method" />
+=======
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pefour.StringMatcherTest" />
+>>>>>>> e3c8bbe6baf33ca8d0f2d03a2694fd861e545722
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -269,8 +320,12 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="JUnit.CharacterstringTest" />
         <item itemvalue="JUnit.CharacterstringTest.characterString" />
+=======
+        <item itemvalue="JUnit.StringMatcherTest" />
+>>>>>>> e3c8bbe6baf33ca8d0f2d03a2694fd861e545722
         <item itemvalue="JUnit.StringSortTest" />
         <item itemvalue="JUnit.StringSortTest.sortWordsOne" />
         <item itemvalue="JUnit.StringSortTest.sortWordsThree" />
@@ -291,22 +346,41 @@
     <servers />
   </component>
   <component name="TestHistory">
+<<<<<<< HEAD
     <history-entry file="CharacterstringTest - 2018.12.31 at 18h 10m 55s.xml">
       <configuration name="CharacterstringTest" configurationId="JUnit" />
+=======
+    <history-entry file="StringTransposeTest - 2018.12.31 at 17h 55m 49s.xml">
+      <configuration name="StringTransposeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringMatcherTest - 2018.12.31 at 18h 05m 28s.xml">
+      <configuration name="StringMatcherTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringMatcherTest - 2018.12.31 at 18h 07m 21s.xml">
+      <configuration name="StringMatcherTest" configurationId="JUnit" />
+>>>>>>> e3c8bbe6baf33ca8d0f2d03a2694fd861e545722
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <frame x="63" y="25" width="1537" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2528581" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25285044" />
+>>>>>>> e3c8bbe6baf33ca8d0f2d03a2694fd861e545722
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Messages" weight="0.3297587" />
+=======
+      <window_info anchor="bottom" id="Messages" />
+>>>>>>> e3c8bbe6baf33ca8d0f2d03a2694fd861e545722
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3297587" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
@@ -374,6 +448,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -406,6 +481,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pefour/StringTranspose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/pefour/StringMatcherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="69" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pefour/StringMatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/pefour/StringTransposeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+>>>>>>> e3c8bbe6baf33ca8d0f2d03a2694fd861e545722
         </state>
       </provider>
     </entry>
