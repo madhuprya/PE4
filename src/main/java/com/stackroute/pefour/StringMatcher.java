@@ -4,6 +4,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class StringMatcher {
+
     public String  matchString(String str,String search) {
 
         String str1 = str;
