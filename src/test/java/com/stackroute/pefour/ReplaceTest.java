@@ -18,8 +18,10 @@ public class ReplaceTest {
     }
     @Test
     public void stringReplace1(){
-        assertEquals("faity fry",rp.stringReplace("daily dry"));
+        assertEquals("faily fry",rp.stringReplace("daily dry"));
+
     }
+    @Test
     public void stringReplace2(){
         assertEquals("flower",rp.stringReplace("dlower"));
     }
